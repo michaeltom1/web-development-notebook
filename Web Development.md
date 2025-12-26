@@ -200,3 +200,11 @@ you can learn more about the HTML element on
 **Mozilla Developer Network Web Docs** and they have documentation for all of the HTML elements that exist. You get more details about things that you need know and they show you some interactive examples of how it all works 
 
 if you're going to use a new element that you haven't seen before and you don't know how it works you can take a quick look at the docs and seeing some examples about how they're used  
+
+# The Paragraph Element
+## `<p>`
+
+`<p>This is a paragraph </p>`
+
+it has the opening tag content and the closing tag
+
